@@ -6,6 +6,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+---
+
 ### Languages & Tools
 
 <p align="left">
@@ -29,32 +31,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
-### Github Stats
-
-<div align="center">
-  <a href="https://github.com/Akachi-Anabanti?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Akachi-Anabanti&theme=onestar&no-frame=false" alt="Akachi-Anabanti" width="98%"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Akachi-Anabanti">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akachi-Anabanti&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="98%" alt="activity graph">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Akachi-Anabanti?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akachi-Anabanti&theme=gotham&show_icons=true&count_private=true&hide_border=false" width="49%" alt="@Akachi-Anabanti's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/Akachi-Anabanti?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Akachi-Anabanti&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="@Akachi-Anabanti's github-readme-streak-stats"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=Akachi-Anabanti&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="Akachi-Anabanti" width="49%"/>
-</div>
+---
 
 ### Favourite Projects
 
@@ -86,6 +63,37 @@
 - Technologies used: `C`
 - [The Shell](https://github.com/Akachi-Anabanti/simple_shell)
 
+---
+
+### Github Stats
+
+<div align="center">
+  <a href="https://github.com/Akachi-Anabanti?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=Akachi-Anabanti&theme=onestar&no-frame=false" alt="Akachi-Anabanti" width="98%"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Akachi-Anabanti">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akachi-Anabanti&theme=react-dark&hide_border=false&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="98%" alt="activity graph">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Akachi-Anabanti?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Akachi-Anabanti&theme=gotham&show_icons=true&count_private=true&hide_border=false" width="49%" alt="@Akachi-Anabanti's github-readme-stats"/>
+  </a>
+  <a href="https://github.com/Akachi-Anabanti?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Akachi-Anabanti&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="@Akachi-Anabanti's github-readme-streak-stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=Akachi-Anabanti&theme=gotham&hide_border=false&show_icons=true&locale=en&layout=compact" alt="Akachi-Anabanti" width="49%"/>
+</div>
+
+---
+
 ### Recent Blog Posts
 
 Here are some of my recent blog posts:
@@ -98,11 +106,9 @@ Here are some of my recent blog posts:
 
 Drop a heart and a feedback!
 
-### Connect with Me
+---
 
-<p align="left">
-<a href="mailto:akachi.anabanti@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://x.com/aanabanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+### Connect with Me
 
 - 📧 Email: [akachi.anabanti@gmail.com](mailto:akachi.anabanti@gmail.com)
 - 🐦 X (Twitter): [@aanabanti](https://twitter.com/aanabanti)
