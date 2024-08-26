@@ -58,30 +58,41 @@
 
 ### Favourite Projects
 
-Here are some of my Favourite projects:
+<div style="border: 2px solid #ff6347; padding: 10px; margin-bottom: 20px;">
+   <h3>Bantiapp</h3>
+   <ul>
+      <li>A social web application.</li>
+      <li>Technologies used: <code>Flask, Jinja, SQLAlchemy, Elastic Search, PostgreSQL</code></li>
+      <li><a href="https://github.com/Akachi-Anabanti/Bantiapp">Bantiapp</a></li>
+   </ul>
+</div>
 
-1. **Bantiapp**
+<div style="border: 2px solid #4682b4; padding: 10px; margin-bottom: 20px;">
+   <h3>Unity Tree</h3>
+   <ul>
+      <li>A family tree/ geneology application, with intents to keep track of family ties and relationships.</li>
+      <li>Technologies used: <code>Flask, Vue, SQLAlchemy, MySQL</code></li>
+      <li><a href="https://github.com/Akachi-Anabanti/unity-tree">Unity-Tree</a></li>
+   </ul>
+</div>
 
-   - A social web application.
-   - Technologies used: [Flask, Jinja, SQLAlchemy, Elastic Search, PostgreSQL]
-   - [Bantiapp](https://github.com/Akachi-Anabanti/Bantiapp)
+<div style="border: 2px solid #32cd32; padding: 10px; margin-bottom: 20px;">
+   <h3>Algorithm Visualizer</h3>
+   <ul>
+      <li>This project is aimed to help visual leaners like myself to understand the working process of algorithms.</li>
+      <li>Technologies used: <code>ReactJS</code></li>
+      <li><a href="https://github.com/Akachi-Anabanti/sort_n_search-visualizer">Visualizer</a></li>
+   </ul>
+</div>
 
-2. **Unity Tree**
-
-   - A family tree/ geneology application, with intents to keep track of family ties and relationships.
-   - Technologies used: [Flask, Vue, SQLAlchemy, MySQL]
-   - [Unity-Tree](https://github.com/Akachi-Anabanti/unity-tree)
-
-3. **Algorithm Visualizer**
-
-   - This project is aimed to help visual leaners like myself to understand the working process of algorithms.
-   - Technologies used: [ReactJS, ]
-   - [Visualizer](https://github.com/Akachi-Anabanti/sort_n_search-visualizer)
-
-4. **Simple Shell in C**
-   - This project was done purely in C, it helped me understand memory allocation, call stack, linux environment and file handling.
-   - Technologies used: [C]
-   - [The Shell](https://github.com/Akachi-Anabanti/simple_shell)
+<div style="border: 2px solid #8a2be2; padding: 10px;">
+   <h3>Simple Shell in C</h3>
+   <ul>
+      <li>This project was done purely in C, it helped me understand memory allocation, call stack, linux environment and file handling.</li>
+      <li>Technologies used: <code>C</code></li>
+      <li><a href="https://github.com/Akachi-Anabanti/simple_shell">The Shell</a></li>
+   </ul>
+</div>
 
 ### Recent Blog Posts
 
