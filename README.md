@@ -91,15 +91,15 @@ Here are some of my recent blog posts:
   Hanko is a new Authentication platform, and this blog talks about configuring it with FastAPI a lightweight modern python web framework.
 
 - [Python Filter, Map and Reduce](https://akachi-anabanti.hashnode.dev/python-s-power-trio-map-filter-reduce-a-fun-guide-for-everyone)
-  Explaining this concepts with fiction.\
+  Explaining these concepts with fiction.
 
 Drop a heart and a feedback!
 
 ### Connect with Me
 
 <p align="left">
-<a href="mailto:akachi.anabanti@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:akachi.anabanti@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
 <a href="https://x.com/aanabanti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 
-- 📧 Email: [your.email@example.com](mailto:akachi.anabanti@gmail.com)
-- 🐦 X (Twitter): [@your_twitter_handle](https://twitter.com/aanabanti)
+- 📧 Email: [akachi.anabanti@gmail.com](mailto:akachi.anabanti@gmail.com)
+- 🐦 X (Twitter): [@aanabanti](https://twitter.com/aanabanti)
