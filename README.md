@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akachi-Anabanti&label=Profile%20views&color=0e75b6&style=flat" alt="Akachi-Anabanti" /> </p>
 
-# 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 | 𝑭𝒖𝒍𝒍-𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝑺𝒑𝒆𝒄𝒊𝒂𝒍𝒊𝒔𝒕
+# 𝑺𝒐𝒇𝒕𝒘𝒂𝒓𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓
 
 ### Dev Quote
 
