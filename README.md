@@ -114,5 +114,5 @@ Drop a heart and a feedback!
 - 🐦 X (Twitter): [@aanabanti](https://twitter.com/aanabanti)
 ### Certificates
 <div>
-  <img src="./assests/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" />
+  <img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" />
 </div>
