@@ -115,7 +115,7 @@ Drop a heart and a feedback!
 ### Certificates
 <div>
   <table>
-    <tr><img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="50%" height="50%"/></tr>
-    <tr> <img src="assets/Screenshot (4).png" alt="cisco-basic-cert" width="50%" height=50%" /></tr>
+    <tr><td><img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="50%" height="50%"/></td></tr>
+    <tr><td><img src="assets/cisco-basic-cert.png" alt="cisco-basic-cert" width="50%" height=50%" /></td></tr>
   </table>
 </div>
