@@ -116,11 +116,11 @@ Drop a heart and a feedback!
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="50%"/>
+      <img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="400"/>
     </td>
-    <td width="15"></td>
+    <td width="10"></td>
     <td align="center">
-      <img src="assets/cisco-basic-cert.png" alt="cisco-basic-cert" width="50%"/>
+      <img src="assets/cisco-basic-cert.png" alt="cisco-basic-cert" width="400"/>
     </td>
   </tr>
 </table>
