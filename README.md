@@ -114,6 +114,8 @@ Drop a heart and a feedback!
 - 🐦 X (Twitter): [@aanabanti](https://twitter.com/aanabanti)
 ### Certificates
 <div>
-  <img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="50%" height="50%"/>
+  <table>
+    <tr><img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="50%" height="50%"/></tr>
+    <tr> <img src="assets/Screenshot (4).png" alt="cisco-basic-cert" width="50%" height=50%" /></tr>
+  </table>
 </div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1577b602-2e8e-4656-9069-6e097f27a8ee" data-share-badge-host="https://www.credly.com"></div>
