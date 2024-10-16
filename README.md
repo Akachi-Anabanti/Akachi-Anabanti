@@ -113,9 +113,14 @@ Drop a heart and a feedback!
 - 📧 Email: [akachi.anabanti@gmail.com](mailto:akachi.anabanti@gmail.com)
 - 🐦 X (Twitter): [@aanabanti](https://twitter.com/aanabanti)
 ### Certificates
-<div>
-  <table>
-    <tr><td><img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="50%" height="50%"/></td></tr>
-    <tr><td><img src="assets/cisco-basic-cert.png" alt="cisco-basic-cert" width="50%" height=50%" /></td></tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/17-short-specializations-certificate-akachi-anabanti.png" alt="alx-cert" width="400"/>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <img src="assets/cisco-basic-cert.png" alt="cisco-basic-cert" width="400"/>
+    </td>
+  </tr>
+</table>
